@@ -105,7 +105,7 @@ For now, the workflow is basically:
 
 ## Cheatlet
 
-**Cheatlet** is an open-source, offline-friendly developer reference tool built under **Brand Launch NG**.
+**Cheatlet** is an open-source, browser-based developer reference tool built under **Brand Launch NG**.
 
 > **Search. Find. Copy. Keep Building.**
 
@@ -113,7 +113,7 @@ Cheatlet exists for those moments when you remember that there is a command for 
 
 ...but your brain has decided that today is not the day to remember it.
 
-Instead of constantly searching the internet for small pieces of syntax and commands, Cheatlet aims to provide quick, searchable references that can also be kept locally.
+Instead of constantly searching the internet for small pieces of syntax and commands, Cheatlet aims to provide quick, searchable references that are easy to use directly in the browser.
 
 ## Current Focus
 
@@ -122,7 +122,7 @@ Instead of constantly searching the internet for small pieces of syntax and comm
 - Searchable technical information
 - Code examples
 - Copy-friendly snippets
-- Offline-friendly usage
+- Browser-first usage
 - Lightweight frontend
 
 ## Future Direction
@@ -139,7 +139,7 @@ Potential improvements include:
 - Screenshot-based guides
 - Practical development guides
 - User suggestions
-- Improved offline capabilities
+- Improved search and navigation
 - Optional advanced features
 
 ## Cheatlet
@@ -150,25 +150,25 @@ Potential improvements include:
 
 ---
 
-# 📴 Why Offline?
+# 🔎 Why Cheatlet?
 
-One of the ideas behind Cheatlet is simple:
+Developer work often involves remembering the concept but forgetting the exact command, syntax, option, or example.
 
-**Your developer references shouldn't disappear just because your internet connection decided to take a vacation.**
+Cheatlet is built around a simple workflow:
 
-Cheatlet is designed to work offline when downloaded or cloned.
+```text
+Search
+  ↓
+Find
+  ↓
+Understand
+  ↓
+Copy
+  ↓
+Keep Building
+```
 
-That means you can keep a local copy and access the core references without constantly depending on an internet connection.
-
-The goal is to make it useful when:
-
-- Internet access is limited
-- You want local references
-- You don't want to repeatedly search the web
-- You want quick information while coding
-- You simply prefer having your tools locally
-
----
+The goal is not to replace official documentation. It is to make the small, frequently needed references easier to find when you are already in the middle of building something.
 
 # 🧰 Technologies & Tools
 
