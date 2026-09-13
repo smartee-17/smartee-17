@@ -146,7 +146,7 @@ Potential improvements include:
 
 [![View Cheatlet](https://img.shields.io/badge/View%20Project-Cheatlet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17/Cheatlet)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Cheatlet-000000?style=for-the-badge&logo=vercel&logoColor=white)](cheatlet.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Cheatlet-000000?style=for-the-badge&logo=vercel&logoColor=white)](cheatlet.vercel.app)
 
 ---
 
