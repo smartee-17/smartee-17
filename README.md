@@ -1,367 +1,272 @@
-<div align="center">
+ <div align="center">
 
-# Hey, I'm Zi 👋
+# 📖 Hey, I'm Zi!
 
-### Developer • Builder • Founder of Brand Launch NG
+### Developer · Builder · Co-Founder of Dazi Labs
 
-I build things, break things, fix things, and occasionally wonder why the code worked five minutes ago.
+*Building ideas, exploring technology, and turning concepts into practical software.*
 
-I enjoy turning ideas into practical software, developer tools, open-source projects, and experiments.
+<mark>Curiosity starts the idea. Building brings it to life.</mark>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-smartee--17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17)
-
-[![X](https://img.shields.io/badge/X-Follow%20me-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-smartee--17-76583D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17)
+[![X](https://img.shields.io/badge/X-Follow-3E4935?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Movie29987F)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-8A7355?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freaksmovie431/)
 
 </div>
 
 ---
 
-# 👨🏽‍💻 About Me
+# 📝 01. A Little About Me
 
-I'm **Zi**, a developer and builder focused on creating practical software and learning by actually building things.
+I'm **Zi**, a developer and builder who enjoys exploring technology, solving problems, and bringing ideas to life through software.
 
-I started with frontend development and have been gradually moving deeper into backend development, APIs, databases, deployment, and hardware/software projects.
+My journey started with frontend development, but my curiosity has gradually taken me into backend engineering, databases, APIs, application security, artificial intelligence, and hardware/software integration.
 
-I'm interested in understanding **how things work**, not just making them work.
+I enjoy understanding how things work beneath the surface, not just making things look good or function correctly.
 
-So my GitHub is a mixture of:
+I work on projects independently, build with AI assistance, and experiment with different AI tools to improve my development workflow. I also explore AI prompt engineering, designing structured prompts and workflows that help turn ideas into functional implementations.
 
-- Completed projects
-- Open-source projects
-- Experiments
-- Learning projects
-- Components
-- Backend systems
-- Random ideas that somehow became actual projects
+For me, AI is another tool for building, learning, and exploring possibilities, not a replacement for understanding the work itself.
 
-Some repositories are polished.
-
-Some are experiments.
-
-Some are me asking:
-
-> "Can I actually build this?"
-
-And then finding out the answer the hard way. 😭
+<mark>I'm more interested in what I can build with technology than how many technologies I can list.</mark>
 
 ---
 
-# 🏢 Brand Launch NG
+# 🏢 02. Dazi Labs
 
-## Building useful things, one project at a time.
+### Co-Founder · Dazi Labs
 
-**Brand Launch NG** is an organization I founded and currently build.
+Dazi Labs is a growing technology venture focused on developing useful software, digital products, and practical technology solutions.
 
-It serves as the home for projects I create across:
+It's a space for turning ideas into projects, experimenting with new possibilities, and building products that can make a difference.
 
-- Open-source software
-- Developer tools
-- Digital products
-- Job and client projects
-- Software experiments
-- Future products and ideas
+Our interests include:
 
-The long-term goal is to grow Brand Launch NG into an organization that builds useful technology and provides practical digital solutions.
+- Software development and digital products
+- Developer tools and productivity solutions
+- AI-powered tools and workflow systems
+- Web applications and backend systems
+- Technology-driven business ideas
+- Practical software solutions for everyday problems
 
-For now, it's still growing.
+As a co-founder, I contribute to technical direction, product development, experimentation, and bringing ideas from concept to implementation.
 
-So no giant office building yet.
-
-Just ideas, code, GitHub, and a suspicious number of browser tabs. 😂
-
-## Founder & Developer
-
-**Zi**
-
-I'm currently responsible for the ideas, development, experimentation, and technical direction behind Brand Launch NG.
-
-As the organization grows, that may change.
-
-For now, the workflow is basically:
-
-    Idea
-      ↓
-    Design
-      ↓
-    Code
-      ↓
-    Bug
-      ↓
-    Debug
-      ↓
-    Coffee / Water / Prayer
-      ↓
-    Fix
-      ↓
-    Ship
+<mark>The goal is simple: build useful things, create value, and keep growing.</mark>
 
 ---
 
-# 🚀 Current Open-Source Project
+# 🚀 03. Featured Project: Cheatlet
 
-## Cheatlet
+### A lightweight developer search and reference platform.
 
-**Cheatlet** is an open-source, browser-based developer reference tool built under **Brand Launch NG**.
+[![Explore Cheatlet](https://img.shields.io/badge/Explore-Cheatlet-3E4935?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17/Cheatlet)
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Cheatlet-76583D?style=for-the-badge&logo=vercel&logoColor=white)](https://cheatlet.vercel.app)
 
-> **Search. Find. Copy. Keep Building.**
+**Cheatlet** is a browser-based platform designed to help developers quickly find commands, syntax, code snippets, and useful technical references.
 
-Cheatlet exists for those moments when you remember that there is a command for something...
+Instead of repeatedly searching through different websites and documentation for small pieces of information, Cheatlet provides a lightweight, searchable space where useful developer references are easier to find.
 
-...but your brain has decided that today is not the day to remember it.
+### What you'll find
 
-Instead of constantly searching the internet for small pieces of syntax and commands, Cheatlet aims to provide quick, searchable references that are easy to use directly in the browser.
-
-## Current Focus
-
-- Developer cheat sheets
-- Quick references
+- Programming language references
+- Terminal commands
+- Code snippets and examples
+- Development tools and utilities
 - Searchable technical information
-- Code examples
-- Copy-friendly snippets
-- Browser-first usage
-- Lightweight frontend
+- Quick references for everyday development
 
-## Future Direction
-
-Cheatlet will continue evolving through development, learning, and user feedback.
-
-Potential improvements include:
-
-- More programming languages
-- More developer tools
-- Better search
-- Better filtering
-- Step-by-step tutorials
-- Screenshot-based guides
-- Practical development guides
-- User suggestions
-- Improved search and navigation
-- Optional advanced features
-
-## Cheatlet
-
-[![View Cheatlet](https://img.shields.io/badge/View%20Project-Cheatlet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17/Cheatlet)
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Cheatlet-000000?style=for-the-badge&logo=vercel&logoColor=white)](cheatlet.vercel.app)
-
----
-
-# 🔎 Why Cheatlet?
-
-Developer work often involves remembering the concept but forgetting the exact command, syntax, option, or example.
-
-Cheatlet is built around a simple workflow:
+### The idea behind it
 
 ```text
-Search
+SEARCH
   ↓
-Find
+FIND
   ↓
-Understand
+UNDERSTAND
   ↓
-Copy
+COPY
   ↓
-Keep Building
+KEEP BUILDING
 ```
 
-The goal is not to replace official documentation. It is to make the small, frequently needed references easier to find when you are already in the middle of building something.
+Cheatlet isn't intended to replace official documentation. It's designed to make frequently needed information quicker and easier to access.
 
-# 🧰 Technologies & Tools
-
-These are some of the technologies and tools I currently work with or am actively learning.
-
-## Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-I particularly enjoy working with **Vanilla JavaScript, HTML, and CSS**.
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-## Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## Design & Deployment
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-## APIs & Services
-
-![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white)
-
-![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+<mark>Less searching around. More time building.</mark>
 
 ---
 
-# 🌱 Currently Learning
+# 🤖 04. AI, Prompt Engineering & Workflow Development
 
-I'm continuously expanding my skills.
+Artificial intelligence is another area I'm actively exploring, both as a development tool and as something I can build with.
 
-Currently spending time with:
+I work with AI tools to assist with software development, research, problem-solving, experimentation, and product development.
 
-    Node.js
-    Express.js
-    MongoDB
-    Mongoose
-    REST APIs
-    Authentication
-    Authorization
-    API Security
-    Deployment
-    Testing
-    C
-    Arduino
-    Embedded Systems
-    Hardware / Software Integration
+Beyond using existing AI tools, I'm also interested in building and experimenting with my own **AI workflow engines and automation systems**.
 
-The list is probably going to get longer.
+### What I explore
 
-It usually does.
+- AI-assisted software development
+- AI prompt engineering and prompt design
+- Custom AI workflow engines
+- Workflow automation and orchestration
+- AI tool and service integration
+- Intelligent task execution
+- Experimental AI systems
+- Reusable AI-powered development tools
+
+### Building and sharing
+
+I don't limit my development to AI-assisted projects. I also independently plan, design, develop, and experiment with projects on my own.
+
+My approach combines independent development with AI assistance where it makes sense. I enjoy understanding the underlying systems, reviewing generated implementations, debugging problems, and improving the final result.
+
+I'll also be publishing some of my AI workflow engines and experiments in my GitHub repositories as they develop.
+
+These repositories will be open for anyone interested in exploring, learning from, adapting, or using the tools.
+
+<mark>Not just using AI to build things, but experimenting with building the tools and workflows behind them.</mark>
 
 ---
 
-# 🔭 Things I'm Interested In
+# 🛠️ 05. My Toolbox
 
-I'm particularly interested in technology that connects software with real-world problems.
+These are some of the technologies I currently work with, use in projects, or continue to explore.
 
-## Software
+### Frontend Development
 
-- Web applications
-- Developer tools
-- Offline-first applications
-- Backend systems
-- APIs
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+I particularly enjoy Vanilla JavaScript, HTML, and CSS, especially when building interfaces and interactive experiences from the ground up.
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat-square&logo=express&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+### Tools, Design & Services
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-333333?style=flat-square&logo=resend&logoColor=white)
+
+### AI & Development Tools
+
+AI-assisted development tools, AI models, prompt engineering, and experimental workflow systems are also part of my development environment.
+
+---
+
+# 🌱 06. Currently Learning & Exploring
+
+There is always something new to explore in technology.
+
+Some areas I'm actively developing my knowledge in include:
+
+- Node.js and backend architecture
+- REST APIs and application design
+- Authentication and authorization
+- API security and data protection
+- Database architecture and management
+- Software testing and deployment
+- AI prompt engineering
+- AI workflow development and automation
+- C programming
+- Arduino and embedded systems
+- Hardware/software integration
+
+I'm particularly interested in how software, artificial intelligence, and electronics can work together to solve practical problems.
+
+---
+
+# 🔭 07. Beyond Web Development
+
+My interests aren't limited to websites and web applications.
+
+I'm particularly interested in engineering and technology that can have a practical impact on everyday life.
+
+### Software & Technology
+
+- Backend systems and APIs
+- Developer productivity tools
 - Digital products
+- Communication technology
+- Application security
+- Artificial intelligence and automation
 
-## Engineering
+### Electronics & Engineering
 
 - Embedded systems
-- Communication technology
+- Microcontrollers
+- Communication systems
 - Hardware/software integration
-- Practical engineering solutions
+- Intelligent electronic systems
 
-Eventually, I'd like to work on systems that go beyond simply building another website.
-
----
-
-# 📂 What's On My GitHub?
-
-My repositories aren't all supposed to look the same.
-
-You'll find a mixture of:
-
-## 🏆 Completed Projects
-
-Projects that made it from an idea into working software.
-
-## 🧪 Experiments
-
-Small projects created to understand a technology or concept.
-
-## 🧩 Components & Utilities
-
-Reusable pieces, UI experiments, and small tools.
-
-## 📚 Learning Projects
-
-Projects created specifically to learn something new.
-
-## 🚧 Work In Progress
-
-Things that are still being built.
-
-Some will become proper products.
-
-Some will remain experiments.
-
-Some will probably teach me what I should never do again. 😂
+<mark>I'd love to build technology that doesn't just live on a screen but solves real problems in the physical world.</mark>
 
 ---
 
-# 🤝 Open Source
+# 📂 08. What's Inside My GitHub?
 
-I believe useful software should be allowed to grow through collaboration, feedback, and shared knowledge.
+My repositories represent different stages of my development journey.
 
-Projects under Brand Launch NG may be released as open source so people can:
+| Category | What's inside |
+|---|---|
+| 🚀 Projects | Applications and products I've built |
+| 🤖 AI Experiments | Workflow engines, automation and AI tools |
+| 🧪 Experiments | Testing ideas and exploring technologies |
+| 🧩 Utilities | Components, tools and reusable code |
+| 📚 Learning | Projects created to understand new concepts |
+| 🚧 Work in Progress | Ideas and projects still being developed |
 
-- ⭐ Star them
+Some projects are complete, others are still evolving, and a few are simply experiments that taught me something valuable.
+
+I also intend to share reusable tools and experimental AI workflow systems so other developers can explore and use them.
+
+---
+
+# 🤝 09. Open Source & Collaboration
+
+I believe technology becomes more useful when people can learn from it, improve it, and contribute to its growth.
+
+I enjoy building projects that encourage collaboration and sharing knowledge.
+
+If you find something interesting in my repositories, you're welcome to:
+
+- ⭐ Star a project
 - 🐛 Report bugs
 - 💡 Suggest improvements
-- 📖 Learn from the code
-- 🔧 Contribute
-- 📢 Share them
-- 🧠 Build something useful from them
+- 🔧 Contribute to development
+- 📢 Share useful projects
+- 💬 Give feedback
 
-If you find something broken, please let me know.
-
-I'd rather receive an issue than discover the bug six months later while confidently telling someone:
-
-> "Yeah, everything works." 😭
+And if something breaks, please let me know. I'd rather fix an issue than discover it unexpectedly months later!
 
 ---
 
-# 💛 Supporting Open Source
+# 🐍 10. My GitHub Activity
 
-The goal is to keep projects accessible and useful.
+A little visual record of the time spent building, experimenting, and contributing.
 
-Some projects may include an optional way to financially support their development.
-
-There is no requirement to donate.
-
-You can support a project by:
-
-- ⭐ Starring the repository
-- 🐛 Reporting bugs
-- 💡 Suggesting features
-- 🔧 Contributing
-- 📢 Sharing it
-- 📚 Using it
-- 💬 Giving feedback
-
-If you genuinely want to support a project financially, that option may also be available.
-
-I'd rather build useful things and let people decide whether they want to support them than cover everything in advertisements.
-
----
-
-# 🐍 GitHub Contribution Snake
-
-Apparently my GitHub contributions needed a snake.
-
-So here we are.
+<div align="center">
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/smartee-17/smartee-17/output/github-contribution-grid-snake.svg)
 
+</div>
+
 ---
 
-# 📊 GitHub Stats
+# 📊 11. GitHub Statistics
 
 <div align="center">
 
@@ -373,107 +278,73 @@ So here we are.
 
 ---
 
-# 📈 My Development Journey
+# 📔 12. Notes From My Development Journey
 
-I don't measure progress only by the number of technologies I can list.
+I don't expect to know everything, and I don't think I need to.
 
-For me, progress looks more like this:
+For me, development is a continuous process of asking questions, exploring solutions, making mistakes, and improving.
 
-    Idea
-      ↓
-    Research
-      ↓
-    Build
-      ↓
-    Something breaks
-      ↓
-    Debug
-      ↓
-    Learn
-      ↓
-    Fix
-      ↓
-    Improve
-      ↓
-    Ship
-      ↓
-    Get feedback
-      ↓
-    Repeat
+Whether I'm writing code independently, working with AI assistance, experimenting with an AI workflow engine, or building an electronics project, the goal is always to understand, improve, and create something useful.
 
-Every project teaches me something.
+My usual workflow looks something like this:
 
-Even the projects that fight back.
+```text
+     AN IDEA
+        |
+        v
+     RESEARCH
+        |
+        v
+      DESIGN
+        |
+        v
+      BUILD
+        |
+        v
+    SOMETHING BREAKS
+        |
+        v
+      DEBUG
+        |
+        v
+      LEARN
+        |
+        v
+     IMPROVE
+        |
+        v
+       SHIP
+        |
+        v
+      REPEAT
+```
 
----
+Every project adds something to the journey. Sometimes it's a new skill, sometimes it's a better approach, and sometimes it's simply learning what not to do next time.
 
-# 🏢 Brand Launch NG
-
-## Founded & Built by Zi
-
-Brand Launch NG is my growing organization for building:
-
-- Open-source software
-- Developer tools
-- Digital products
-- Job and client projects
-- Technical experiments
-- Future products
-
-The organization is still young.
-
-The projects are still growing.
-
-The ideas are definitely not finished.
-
-That's kind of the point.
-
-> **Build useful things. Keep learning. Keep building.**
+<mark>Keep learning. Keep experimenting. Keep building.</mark>
 
 ---
 
-# 🔗 Connect With Me
+# 📬 13. Let's Connect
+
+I'm always happy to connect with other developers, builders, AI enthusiasts, and people interested in technology.
 
 <div align="center">
 
-### GitHub
+[![GitHub](https://img.shields.io/badge/GitHub-smartee--17-3E4935?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17)
 
-[![GitHub](https://img.shields.io/badge/GitHub-smartee--17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17)
+[![X](https://img.shields.io/badge/X-Connect-76583D?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Movie29987F)
 
-### X
-
-[![X](https://img.shields.io/badge/X-Follow%20me-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
-
-### Instagram
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-
-### Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for stopping by 👋
-
-If you found something useful here, feel free to explore the repositories.
-
-You might find something useful.
-
-You might find something weird.
-
-You might even find the exact project that saves you from Googling the same command for the 47th time.
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-8A7355?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freaksmovie431/)
 
 <br>
 
-**Built by Zi • Brand Launch NG**
+*Thanks for taking the time to read my little corner of GitHub.*
 
-<br>
+**Zi**
 
-`Build → Learn → Break → Fix → Ship → Repeat`
+Co-Founder · Dazi Labs
+
+<mark>BUILD · LEARN · EXPERIMENT · IMPROVE · SHIP</mark>
 
 </div>
