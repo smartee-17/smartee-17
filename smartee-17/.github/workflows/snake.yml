@@ -1,0 +1,57 @@
+name: Generate Snake
+
+# Builds the contribution snake for smartee-17 and publishes it to the
+# "output" branch. Nothing generated is ever committed to main.
+on:
+  # Rebuild every 12 hours.
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Adds a "Run workflow" button on the Actions tab for manual runs.
+  workflow_dispatch:
+
+  # Also rebuild when the profile itself is updated on main.
+  push:
+    branches:
+      - main
+
+# Only one snake build at a time; a newer run replaces an older queued one.
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    # The default GITHUB_TOKEN needs write access to push the "output" branch.
+    permissions:
+      contents: write
+
+    steps:
+      # Reads the contribution graph of github_user_name and writes
+      # animated SVGs (journal colours for light mode, dark variant for dark mode).
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-contribution-grid-snake.svg?color_snake=#35452F&color_dots=#EADCC5,#D6E8C2,#B7D99A,#7FA766,#35452F
+            output/github-contribution-grid-snake-dark.svg?color_snake=#B7D99A&color_dots=#3A3126,#4F6240,#6F8F55,#9CC07A,#B7D99A
+
+      - name: Check that both files were generated
+        run: |
+          ls -la output
+          test -f output/github-contribution-grid-snake.svg
+          test -f output/github-contribution-grid-snake-dark.svg
+
+      # Pushes the contents of ./output to the root of the "output" branch
+      # (the branch is created automatically on the first run).
+      - name: Publish SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
