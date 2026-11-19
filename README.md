@@ -1,22 +1,27 @@
- <div align="center">
+<h1 align="center">
+  <img src="assets/journal-header.svg" alt="Hey, I’m Zi! Developer, Builder, Co-Founder of Dazi Labs" width="100%">
+</h1>
 
-# 📖 Hey, I'm Zi!
+<p align="center">
+  <i>Building ideas, exploring technology, and turning concepts into practical software.</i>
+</p>
 
-### Developer · Builder · Co-Founder of Dazi Labs
+<p align="center">
+  <b><i>Curiosity starts the idea. Building brings it to life.</i></b><br>
+  <img src="assets/journal-highlight.svg" width="420" alt="">
+</p>
 
-*Building ideas, exploring technology, and turning concepts into practical software.*
+<p align="center">
+  <a href="https://github.com/smartee-17"><img src="https://img.shields.io/badge/GitHub-smartee--17-4B392A?style=for-the-badge&logo=github&logoColor=EADCC5" alt="GitHub: smartee-17"></a>
+  <a href="https://x.com/Movie29987F"><img src="https://img.shields.io/badge/X-Follow-35452F?style=for-the-badge&logo=x&logoColor=EADCC5" alt="Follow on X"></a>
+  <a href="https://www.instagram.com/freaksmovie431/"><img src="https://img.shields.io/badge/Instagram-Follow-76583D?style=for-the-badge&logo=instagram&logoColor=EADCC5" alt="Follow on Instagram"></a>
+</p>
 
-<mark>Curiosity starts the idea. Building brings it to life.</mark>
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-smartee--17-76583D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17)
-[![X](https://img.shields.io/badge/X-Follow-3E4935?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Movie29987F)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-8A7355?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freaksmovie431/)
+<h2 align="center"><img src="assets/section-01.svg" width="100%" alt="Entry 01, the introduction"></h2>
 
-</div>
-
----
-
-# 📝 01. A Little About Me
+## A Little About Me
 
 I'm **Zi**, a developer and builder who enjoys exploring technology, solving problems, and bringing ideas to life through software.
 
@@ -28,11 +33,16 @@ I work on projects independently, build with AI assistance, and experiment with 
 
 For me, AI is another tool for building, learning, and exploring possibilities, not a replacement for understanding the work itself.
 
-<mark>I'm more interested in what I can build with technology than how many technologies I can list.</mark>
+<p align="center">
+  <b><i>I'm more interested in what I can build with technology than how many technologies I can list.</i></b><br>
+  <img src="assets/journal-highlight.svg" width="480" alt="">
+</p>
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 🏢 02. Dazi Labs
+<h2 align="center"><img src="assets/section-02.svg" width="100%" alt="Entry 02, the venture"></h2>
+
+## Dazi Labs
 
 ### Co-Founder · Dazi Labs
 
@@ -51,18 +61,25 @@ Our interests include:
 
 As a co-founder, I contribute to technical direction, product development, experimentation, and bringing ideas from concept to implementation.
 
-<mark>The goal is simple: build useful things, create value, and keep growing.</mark>
+<p align="center">
+  <b><i>The goal is simple: build useful things, create value, and keep growing.</i></b><br>
+  <img src="assets/journal-highlight.svg" width="460" alt="">
+</p>
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 🚀 03. Featured Project: Cheatlet
+<h2 align="center"><img src="assets/section-03.svg" width="100%" alt="Entry 03, featured project"></h2>
+
+## Featured Project: Cheatlet
 
 ### A lightweight developer search and reference platform.
 
-[![Explore Cheatlet](https://img.shields.io/badge/Explore-Cheatlet-3E4935?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17/Cheatlet)
-[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Cheatlet-76583D?style=for-the-badge&logo=vercel&logoColor=white)](https://cheatlet.vercel.app)
+<p>
+  <a href="https://github.com/smartee-17/Cheatlet"><img src="https://img.shields.io/badge/Explore-Cheatlet-35452F?style=for-the-badge&logo=github&logoColor=EADCC5" alt="Explore Cheatlet on GitHub"></a>
+  <a href="https://cheatlet.vercel.app"><img src="https://img.shields.io/badge/Live%20Website-Visit%20Cheatlet-76583D?style=for-the-badge&logo=vercel&logoColor=EADCC5" alt="Visit the Cheatlet live website"></a>
+</p>
 
-**Cheatlet** is a browser-based platform designed to help developers quickly find commands, syntax, code snippets, and useful technical references.
+**Cheatlet** is a browser-based platform designed to help developers quickly find commands, syntax, code snippets, and useful technical references. It runs in the browser, so there is nothing to download or install.
 
 Instead of repeatedly searching through different websites and documentation for small pieces of information, Cheatlet provides a lightweight, searchable space where useful developer references are easier to find.
 
@@ -91,11 +108,16 @@ KEEP BUILDING
 
 Cheatlet isn't intended to replace official documentation. It's designed to make frequently needed information quicker and easier to access.
 
-<mark>Less searching around. More time building.</mark>
+<p align="center">
+  <b><i>Less searching around. More time building.</i></b><br>
+  <img src="assets/journal-highlight-short.svg" width="260" alt="">
+</p>
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 🤖 04. AI, Prompt Engineering & Workflow Development
+<h2 align="center"><img src="assets/section-04.svg" width="100%" alt="Entry 04, the experiments"></h2>
+
+## AI, Prompt Engineering & Workflow Development
 
 Artificial intelligence is another area I'm actively exploring, both as a development tool and as something I can build with.
 
@@ -124,50 +146,57 @@ I'll also be publishing some of my AI workflow engines and experiments in my Git
 
 These repositories will be open for anyone interested in exploring, learning from, adapting, or using the tools.
 
-<mark>Not just using AI to build things, but experimenting with building the tools and workflows behind them.</mark>
+<p align="center">
+  <b><i>Not just using AI to build things, but experimenting with building the tools and workflows behind them.</i></b><br>
+  <img src="assets/journal-highlight.svg" width="560" alt="">
+</p>
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 🛠️ 05. My Toolbox
+<h2 align="center"><img src="assets/section-05.svg" width="100%" alt="Entry 05, the toolbox"></h2>
+
+## My Toolbox
 
 These are some of the technologies I currently work with, use in projects, or continue to explore.
 
 ### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-4B392A?style=flat-square&logo=html5&logoColor=EADCC5)
+![CSS3](https://img.shields.io/badge/CSS3-4B392A?style=flat-square&logo=css3&logoColor=EADCC5)
+![JavaScript](https://img.shields.io/badge/JavaScript-4B392A?style=flat-square&logo=javascript&logoColor=EADCC5)
 
 I particularly enjoy Vanilla JavaScript, HTML, and CSS, especially when building interfaces and interactive experiences from the ground up.
 
 ### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-35452F?style=flat-square&logo=node.js&logoColor=EADCC5)
+![Express.js](https://img.shields.io/badge/Express.js-35452F?style=flat-square&logo=express&logoColor=EADCC5)
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-35452F?style=flat-square&logo=mongodb&logoColor=EADCC5)
+![Mongoose](https://img.shields.io/badge/Mongoose-35452F?style=flat-square&logo=mongoose&logoColor=EADCC5)
 
 ### Tools, Design & Services
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-333333?style=flat-square&logo=resend&logoColor=white)
+![Git](https://img.shields.io/badge/Git-76583D?style=flat-square&logo=git&logoColor=EADCC5)
+![GitHub](https://img.shields.io/badge/GitHub-76583D?style=flat-square&logo=github&logoColor=EADCC5)
+![VS Code](https://img.shields.io/badge/VS%20Code-76583D?style=flat-square&logo=visualstudiocode&logoColor=EADCC5)
+![Figma](https://img.shields.io/badge/Figma-76583D?style=flat-square&logo=figma&logoColor=EADCC5)
+![Vercel](https://img.shields.io/badge/Vercel-76583D?style=flat-square&logo=vercel&logoColor=EADCC5)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-76583D?style=flat-square&logo=cloudinary&logoColor=EADCC5)
+![Paystack](https://img.shields.io/badge/Paystack-76583D?style=flat-square&logo=paystack&logoColor=EADCC5)
+![Resend](https://img.shields.io/badge/Resend-76583D?style=flat-square&logo=resend&logoColor=EADCC5)
 
 ### AI & Development Tools
 
 AI-assisted development tools, AI models, prompt engineering, and experimental workflow systems are also part of my development environment.
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 🌱 06. Currently Learning & Exploring
+<h2 align="center"><img src="assets/section-06.svg" width="100%" alt="Entry 06, the study list"></h2>
+
+## Currently Learning & Exploring
 
 There is always something new to explore in technology.
 
@@ -187,9 +216,11 @@ Some areas I'm actively developing my knowledge in include:
 
 I'm particularly interested in how software, artificial intelligence, and electronics can work together to solve practical problems.
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 🔭 07. Beyond Web Development
+<h2 align="center"><img src="assets/section-07.svg" width="100%" alt="Entry 07, beyond the browser"></h2>
+
+## Beyond Web Development
 
 My interests aren't limited to websites and web applications.
 
@@ -212,11 +243,16 @@ I'm particularly interested in engineering and technology that can have a practi
 - Hardware/software integration
 - Intelligent electronic systems
 
-<mark>I'd love to build technology that doesn't just live on a screen but solves real problems in the physical world.</mark>
+<p align="center">
+  <b><i>I'd love to build technology that doesn't just live on a screen but solves real problems in the physical world.</i></b><br>
+  <img src="assets/journal-highlight.svg" width="560" alt="">
+</p>
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 📂 08. What's Inside My GitHub?
+<h2 align="center"><img src="assets/section-08.svg" width="100%" alt="Entry 08, the shelves"></h2>
+
+## What's Inside My GitHub?
 
 My repositories represent different stages of my development journey.
 
@@ -233,9 +269,11 @@ Some projects are complete, others are still evolving, and a few are simply expe
 
 I also intend to share reusable tools and experimental AI workflow systems so other developers can explore and use them.
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 🤝 09. Open Source & Collaboration
+<h2 align="center"><img src="assets/section-09.svg" width="100%" alt="Entry 09, open pages"></h2>
+
+## Open Source & Collaboration
 
 I believe technology becomes more useful when people can learn from it, improve it, and contribute to its growth.
 
@@ -252,33 +290,38 @@ If you find something interesting in my repositories, you're welcome to:
 
 And if something breaks, please let me know. I'd rather fix an issue than discover it unexpectedly months later!
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 🐍 10. My GitHub Activity
+<h2 align="center"><img src="assets/section-10.svg" width="100%" alt="Entry 10, activity log"></h2>
+
+## My GitHub Activity
 
 A little visual record of the time spent building, experimenting, and contributing.
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smartee-17/smartee-17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smartee-17/smartee-17/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation for smartee-17" src="https://raw.githubusercontent.com/smartee-17/smartee-17/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/smartee-17/smartee-17/output/github-contribution-grid-snake.svg)
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-</div>
+<h2 align="center"><img src="assets/section-11.svg" width="100%" alt="Entry 11, the numbers"></h2>
 
----
+## GitHub Statistics
 
-# 📊 11. GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smartee-17&show_icons=true&hide_border=true&rank_icon=github&bg_color=EADCC5&title_color=4B392A&text_color=4B392A&icon_color=35452F&border_radius=8" alt="GitHub stats for smartee-17" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartee-17&layout=compact&hide_border=true&bg_color=EADCC5&title_color=4B392A&text_color=4B392A&border_radius=8" alt="Top programming languages used by smartee-17" height="170">
+</p>
 
-<div align="center">
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=smartee-17&show_icons=true&hide_border=true&rank_icon=github" height="170">
+<h2 align="center"><img src="assets/section-12.svg" width="100%" alt="Entry 12, field notes"></h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartee-17&layout=compact&hide_border=true" height="170">
-
-</div>
-
----
-
-# 📔 12. Notes From My Development Journey
+## Notes From My Development Journey
 
 I don't expect to know everything, and I don't think I need to.
 
@@ -321,30 +364,37 @@ My usual workflow looks something like this:
 
 Every project adds something to the journey. Sometimes it's a new skill, sometimes it's a better approach, and sometimes it's simply learning what not to do next time.
 
-<mark>Keep learning. Keep experimenting. Keep building.</mark>
+<p align="center">
+  <b><i>Keep learning. Keep experimenting. Keep building.</i></b><br>
+  <img src="assets/journal-highlight.svg" width="400" alt="">
+</p>
 
----
+<p align="center"><img src="assets/journal-section-divider.svg" width="100%" alt=""></p>
 
-# 📬 13. Let's Connect
+<h2 align="center"><img src="assets/section-13.svg" width="100%" alt="Entry 13, the last page"></h2>
+
+## Let's Connect
 
 I'm always happy to connect with other developers, builders, AI enthusiasts, and people interested in technology.
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/smartee-17"><img src="https://img.shields.io/badge/GitHub-smartee--17-4B392A?style=for-the-badge&logo=github&logoColor=EADCC5" alt="GitHub: smartee-17"></a>
+  <a href="https://x.com/Movie29987F"><img src="https://img.shields.io/badge/X-Connect-35452F?style=for-the-badge&logo=x&logoColor=EADCC5" alt="Connect on X"></a>
+  <a href="https://www.instagram.com/freaksmovie431/"><img src="https://img.shields.io/badge/Instagram-Connect-76583D?style=for-the-badge&logo=instagram&logoColor=EADCC5" alt="Connect on Instagram"></a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-smartee--17-3E4935?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smartee-17)
+<p align="center">
+  <i>Thanks for taking the time to read my little corner of GitHub.</i>
+</p>
 
-[![X](https://img.shields.io/badge/X-Connect-76583D?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Movie29987F)
+<p align="center">
+  <b>Zi</b><br>
+  Co-Founder · Dazi Labs
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-8A7355?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freaksmovie431/)
+<p align="center">
+  <b><i>BUILD · LEARN · EXPERIMENT · IMPROVE · SHIP</i></b><br>
+  <img src="assets/journal-highlight.svg" width="440" alt="">
+</p>
 
-<br>
-
-*Thanks for taking the time to read my little corner of GitHub.*
-
-**Zi**
-
-Co-Founder · Dazi Labs
-
-<mark>BUILD · LEARN · EXPERIMENT · IMPROVE · SHIP</mark>
-
-</div>
+<p align="center"><img src="assets/journal-footer.svg" width="100%" alt="End of the journal page: to be continued"></p>
